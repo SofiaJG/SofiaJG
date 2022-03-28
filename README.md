@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SofiaJG
 - 👀 I’m interested in UX/UI 
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me IG @SofiaJGRubio
 
 <!---
